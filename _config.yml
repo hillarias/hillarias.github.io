@@ -3,7 +3,7 @@ logo: "/images//A548C6AE-DF3E-4C46-A1C2-91C717EAA559_1_105_c.jpeg?raw=true" # yo
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Nathan Arias
   Data Scientist / Molecular Biologist
-  <a href="https://www.linkedin.com/in/nathanarias">LinkedIn Profile</a> 
+  <a href=https://www.linkedin.com/in/nathanarias>LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
