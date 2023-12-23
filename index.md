@@ -1,33 +1,28 @@
+---
+layout: default
+---
+
 ### Projects
----
 
-### [Citibike New Station Analysis](/pdf/citibike_presentation.pdf)
-### [Full Analysis](/pdf/citibike_report.pdf)
-[<img src="images/citibike.png?raw=true"/>](/pdf/citibike_presentation.pdf)
+<div class="project-card">
+  <a href="/pdf/citibike_presentation.pdf">
+    <img src="images/citibike.png?raw=true" alt="Citibike Project"/>
+    <div class="project-info">
+      <h3>Citibike New Station Analysis</h3>
+      <p>Short description of the project...</p>
+    </div>
+  </a>
+</div>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<!-- Repeat for other projects -->
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Skills and Technologies
+- Python
+- JavaScript
+- Data Analysis
+- Web Development
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<footer>
+  <p>Contact me at: your.email@example.com</p>
+  <p>Follow me on <a href="your-linkedin-profile">LinkedIn</a>, <a href="your-github-profile">GitHub</a></p>
+</footer>
