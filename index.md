@@ -1,11 +1,8 @@
-## Portfolio
-
+### Projects
 ---
 
-### Category Name 1 
-
-## [Citibike Station Quick Summary](/pdf/citibike_presentation.pdf)
-## [Full Analysis](/pdf/cikibike_report.pdf)
+### [Citibike New Station Analysis](/pdf/citibike_presentation.pdf)
+### [Full Analysis](/pdf/cikibike_report.pdf)
 <img src="images/citibike.png?raw=true"/>
 
 ---
