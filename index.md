@@ -3,7 +3,6 @@
 
 ### [Citibike New Station Analysis](/pdf/citibike_presentation.pdf)
 ### [Full Analysis](/pdf/citibike_report.pdf)
-<img src="images/citibike.png?raw=true"/>
 [<img src="images/citibike.png?raw=true"/>](/pdf/citibike_presentation.pdf)
 
 ---
