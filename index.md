@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Citibike Station Analysis](/sample_page)
+[Citibike Station Analysis](/pdf/citibike_presentation.pdf)
 <img src="images/citibike.png?raw=true"/>
 
 ---
