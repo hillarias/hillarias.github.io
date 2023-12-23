@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Citibike Station Analysis](/sample_page)
-<img src="citibike.png?raw=true"/>
+<img src="images/citibike.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
