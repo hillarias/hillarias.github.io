@@ -1,15 +1,14 @@
 title: Nathan Arias # your name (or website title) here
 logo: "/images/A548C6AE-DF3E-4C46-A1C2-91C717EAA559_1_105_c.jpeg?raw=true" # your photo (or logo) here
-description: 
+description: |
   Data Scientist / Molecular Biologist
   <br> <br>
   Los Angeles, CA
   <br> <br>
+  [<img src="images/github-mark.png?raw=true"/>](https://github.com/hillarias)
+  [<img src="images/LI-In-Bug.png?raw=true"/>](https://www.linkedin.com/in/nathanarias/)
 
-[<img src="images/github-mark.png?raw=true"/>](https://github.com/hillarias)
-[<img src="images/LI-In-Bug.png?raw=true"/>](https://www.linkedin.com/in/nathanarias/)
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
