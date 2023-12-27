@@ -2,14 +2,14 @@ title: Nathan Arias # your name (or website title) here
 logo: "/images/portfolio_image.png?raw=true" # your photo (or logo) here
 description: |
   <br> <br>
-
-
+  
+  Hello!
   Data Scientist / Molecular Biologist
   <br> <br>
   Los Angeles, CA 
   <br> <br>
   <a href="https://github.com/hillarias"><img src="images/github-mark.png?raw=true" alt="GitHub" width="30" height="30"/></a>
-  <a href="https://www.linkedin.com/in/nathanarias/"><img src="images/LI-In-Bug.png?raw=true" alt="LinkedIn" width="30" height="40"/></a>
+  <a href="https://www.linkedin.com/in/nathanarias/"><img src="images/LI-In-Bug.png?raw=true" alt="LinkedIn" width="40" height="30"/></a>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
