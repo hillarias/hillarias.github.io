@@ -3,6 +3,9 @@
 
 ### [Citibike New Station Analysis](/pdf/citibike_presentation.pdf)
 ### [Full Analysis](/pdf/citibike_report.pdf)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+
 <img src="images/citibike.png?raw=true"/>
 
 ---
