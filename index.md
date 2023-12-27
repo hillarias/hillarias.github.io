@@ -1,10 +1,10 @@
 ### Projects
 ---
 
-### [Citibike New Station Analysis](/pdf/citibike_presentation.pdf)
-### [Full Analysis](/pdf/citibike_report.pdf)
+ [Citibike New Station Analysis](/pdf/citibike_presentation.pdf)
+ [Full Analysis](/pdf/citibike_report.pdf)
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
 
 <img src="images/citibike.png?raw=true"/>
 
