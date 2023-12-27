@@ -5,8 +5,8 @@ description: |
   <br> <br>
   Los Angeles, CA
   <br> <br>
-  <a href="https://github.com/hillarias"><img src="images/github-mark.png?raw=true" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/nathanarias/"><img src="images/LI-In-Bug.png?raw=true" alt="LinkedIn"/></a>
+  <a href="https://github.com/hillarias"><img src="images/github-mark.png?raw=true" alt="GitHub" width="50" height="50"/></a>
+  <a href="https://www.linkedin.com/in/nathanarias/"><img src="images/LI-In-Bug.png?raw=true" alt="LinkedIn" width="50" height="50"/></a>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
