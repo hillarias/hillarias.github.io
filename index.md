@@ -1,7 +1,7 @@
 ## Projects
 ---
 
-### [Citibike New Station Analysis](/pdf/citibike_presentation.pdf)
+### [Citibike Station Analysis](/pdf/citibike_presentation.pdf)
  
 In this project, we analyzed ten years of CitiBike customer data, mapping journey start and end points to produce a neighborhood-based choropleth. This visual representation of user patterns informed our recommendations for new station placements.
 
