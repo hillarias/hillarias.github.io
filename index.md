@@ -1,7 +1,7 @@
 ## Projects
 ---
 
-## [Machine Learning Projects](sample_page.md)
+## [Machine Learning Projects](ml_project_page.md)
 
 <img src="images/citibike.png?raw=true"/>
 
