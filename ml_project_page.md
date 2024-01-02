@@ -14,7 +14,7 @@ In this project, we analyzed ten years of CitiBike customer data, mapping journe
 
 ---
 
-### [HAM10000 Skin Cancer Classifier](/pdf/citibike_presentation.pdf)
+### [HAM10000 Skin Lesion Classifier](/pdf/citibike_presentation.pdf)
  
 Our team developed a mixed model using a Convolutional Neural Network (CNN) with the HAM10000 dataset, achieving 81% accuracy in skin lesion classification. The project entailed rigorous data augmentation and fine-tuning of neural network layers to optimize performance and accuracy
 
