@@ -13,6 +13,11 @@ In this project, we analyzed ten years of CitiBike customer data, mapping journe
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 
 ---
+
+### [HAM10000 Skin Cancer Classifier](/pdf/citibike_presentation.pdf)
+ 
+Our team developed a mixed model using a Convolutional Neural Network (CNN) with the HAM10000 dataset, achieving 81% accuracy in skin lesion classification. The project entailed rigorous data augmentation and fine-tuning of neural network layers to optimize performance and accuracy
+
 <img src="images/sankey_207.png?raw=true"/>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
