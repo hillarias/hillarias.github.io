@@ -34,11 +34,10 @@ This project involved analyzing the Northwind database to identify products ofte
 
 ---
 
+### [Precision Confluency Analysis in Live/Dead Stain Assays](/pdf/northwinds.pdf)
+ 
+This application employs dual-channel live/dead staining to enhance microcarrier segmentation through the exploitation of autofluorescence properties. It adeptly performs binary inversion and subtraction on the segmented images to remove non-adherent floaters. The core functionality lies in its sophisticated algorithm, which calculates confluency by quantifying the ratio of the microcarriers' area to the live signal's area, thereby offering a precise and reliable metric for cell culture analysis in biotechnological research.
 
-<img src="images/lacrime_geo.png?raw=true"/>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-
----
 <img src="images/cell_confluency.png?raw=true"/>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
