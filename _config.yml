@@ -10,7 +10,7 @@ description: |
   <a href="https://github.com/hillarias"><img src="images/github-mark.png?raw=true" alt="GitHub" width="30" height="30"/></a>
   <a href="https://www.linkedin.com/in/nathanarias/"><img src="images/LI-In-Bug.png?raw=true" alt="LinkedIn" width="40" height="30"/></a>
 
-remote_theme: pages-themes/minimal-mistakes@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
