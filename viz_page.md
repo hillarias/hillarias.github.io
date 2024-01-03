@@ -10,5 +10,4 @@ This visualization presents a unique application of a D3 zoomable treemap, speci
 
 <img src="images/tree-diagram.png?raw=true"/>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![D3.js](https://a11ybadges.com/badge?logo=d3dotjs)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![D3]({https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white})
