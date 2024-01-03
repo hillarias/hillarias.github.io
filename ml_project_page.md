@@ -28,7 +28,7 @@ Developed a mixed model using a Convolutional Neural Network (CNN) with the HAM1
  
 This project involved analyzing the Northwind database to identify products often purchased together, using graph-based Bayesian analysis and community detection algorithms such as Louvain Modularity. The insights were applied to enhance both online product recommendations and warehouse storage layouts.
 
-<img src="images/neo4j.png?raw=true"/>
+<img src="images/warehouse_lm.png?raw=true"/>
 
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
