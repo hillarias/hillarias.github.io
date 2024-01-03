@@ -26,7 +26,7 @@ Developed a mixed model using a Convolutional Neural Network (CNN) with the HAM1
 
 ### [Optimized Pairing Analysis: Enhancing E-Commerce Strategies with Graph-Based Data Science](/pdf/northwinds.pdf)
  
-This project involved analyzing the Northwind database to identify products often purchased together, using graph-based Bayesian analysis and community detection algorithms like Louvain Modularity. The insights were applied to enhance both online product recommendations and warehouse storage efficiency.
+This project involved analyzing the Northwind database to identify products often purchased together, using graph-based Bayesian analysis and community detection algorithms such as Louvain Modularity. The insights were applied to enhance both online product recommendations and warehouse storage layouts.
 
 <img src="images/neo4j.png?raw=true"/>
 
