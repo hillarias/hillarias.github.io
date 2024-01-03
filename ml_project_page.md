@@ -14,7 +14,7 @@ In this project, we analyzed ten years of CitiBike customer data, mapping journe
 
 ---
 
-### [HAM10000 Skin Lesion Classifier](/pdf/citibike_presentation.pdf)
+### [HAM10000 Skin Lesion Classifier](/pdf/ham1000.pdf)
  
 Our team developed a mixed model using a Convolutional Neural Network (CNN) with the HAM10000 dataset, achieving 81% accuracy in skin lesion classification. The project entailed rigorous data augmentation and fine-tuning of neural network layers to optimize performance and accuracy
 
@@ -23,6 +23,18 @@ Our team developed a mixed model using a Convolutional Neural Network (CNN) with
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
 ---
+
+### [Neo4j Value Proposition For Recommender Systems](/pdf/northwinds.pdf)
+ 
+Our team developed a mixed model using a Convolutional Neural Network (CNN) with the HAM10000 dataset, achieving 81% accuracy in skin lesion classification. The project entailed rigorous data augmentation and fine-tuning of neural network layers to optimize performance and accuracy
+
+<img src="images/sankey_207.png?raw=true"/>
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+---
+
+
 <img src="images/lacrime_geo.png?raw=true"/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 
