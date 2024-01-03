@@ -26,4 +26,18 @@ This visualization uniquely navigates from a broad overview of biodiversity acro
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![D3](https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
 
+---
+
+### [Los Angeles Crime Data 2020-2023 Choropleth](https://apps-fall.ischool.berkeley.edu/~arshiasharma/w209/final/species_explorer/)
+ 
+In my recent data visualization project, I delved into the nuanced relationship between crime rates and population densities, employing advanced normalization techniques to avoid oversimplified generalizations. Utilizing Python's Pandas and Plotly libraries, I created interactive choropleth maps that accurately represent crime data across various ZIP codes. This work highlights my commitment to ethical data analysis and my skill in transforming complex datasets into insightful, visual narratives.
+
+ 
+
+<img src="images/species_explorer.png?raw=true"/>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![D3](https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+
+
+
 
