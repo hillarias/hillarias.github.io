@@ -16,7 +16,7 @@ In this project, we analyzed ten years of CitiBike customer data, mapping journe
 
 ### [HAM10000 Skin Lesion Classifier](/pdf/ham1000.pdf)
  
-Our team developed a mixed model using a Convolutional Neural Network (CNN) with the HAM10000 dataset, achieving 81% accuracy in skin lesion classification. The project entailed rigorous data augmentation and fine-tuning of neural network layers to optimize performance and accuracy
+Developed a mixed model using a Convolutional Neural Network (CNN) with the HAM10000 dataset, achieving 81% accuracy in skin lesion classification. The project entailed rigorous data augmentation and fine-tuning of neural network layers to optimize performance and accuracy
 
 <img src="images/sankey_207.png?raw=true"/>
 
@@ -24,9 +24,9 @@ Our team developed a mixed model using a Convolutional Neural Network (CNN) with
 
 ---
 
-### [Neo4j Value Proposition For Recommender Systems](/pdf/northwinds.pdf)
+### [Optimized Pairing Analysis: Enhancing E-Commerce Strategies with Graph-Based Data Science](/pdf/northwinds.pdf)
  
-Our team developed a mixed model using a Convolutional Neural Network (CNN) with the HAM10000 dataset, achieving 81% accuracy in skin lesion classification. The project entailed rigorous data augmentation and fine-tuning of neural network layers to optimize performance and accuracy
+This project involved analyzing the Northwind database to identify products often purchased together, using graph-based Bayesian analysis and community detection algorithms like Louvain Modularity. The insights were applied to enhance both online product recommendations and warehouse storage efficiency.
 
 <img src="images/neo4j.png?raw=true"/>
 
