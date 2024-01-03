@@ -28,7 +28,7 @@ Our team developed a mixed model using a Convolutional Neural Network (CNN) with
  
 Our team developed a mixed model using a Convolutional Neural Network (CNN) with the HAM10000 dataset, achieving 81% accuracy in skin lesion classification. The project entailed rigorous data augmentation and fine-tuning of neural network layers to optimize performance and accuracy
 
-<img src="images/sankey_207.png?raw=true"/>
+<img src="images/neo4j.png?raw=true"/>
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
