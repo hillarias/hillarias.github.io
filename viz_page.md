@@ -34,7 +34,7 @@ In my recent data visualization project, I delved into the nuanced relationship 
 
  
 
-<img src="images/species_explorer.png?raw=true"/>
+<img src="images/lacrime_geo.png?raw=true"/>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![D3](https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
