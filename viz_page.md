@@ -14,7 +14,7 @@ This visualization presents a unique application of a D3 zoomable treemap, speci
 
 ---
 
-### [Vizualizing National Park Species Endangerment ](https://apps-fall.ischool.berkeley.edu/~arshiasharma/w209/final/species_explorer/)
+### [National Park Species Endangerment ](https://apps-fall.ischool.berkeley.edu/~arshiasharma/w209/final/species_explorer/)
  
 This visualization uniquely navigates from a broad overview of biodiversity across national parks to detailed, species-level granularity, offering a comprehensive yet focused exploration of ecological data. Through interactive elements like dropdown menus and dynamic charts, it allows users to seamlessly filter extensive datasets, providing insights into specific species and conservation statuses.
 
