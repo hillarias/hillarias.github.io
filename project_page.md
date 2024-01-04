@@ -34,7 +34,7 @@ This project involved analyzing the Northwind database to identify products ofte
 
 ---
 
-### [Precision Confluency Analysis in Live/Dead Stain Assays](/pdf/northwinds.pdf)
+### [Precision Confluency Analysis in Live/Dead Stain Assays](/pdf/conflu_app.pdf)
  
 This application employs dual-channel live/dead staining to enhance microcarrier segmentation through the exploitation of autofluorescence properties. It adeptly performs binary inversion and subtraction on the segmented images to remove non-adherent floaters. The core functionality lies in its sophisticated algorithm, which calculates confluency by quantifying the ratio of the microcarriers' area to the live signal's area, thereby offering a precise and reliable metric for cell culture analysis in biotechnological research.
 
