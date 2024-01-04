@@ -3,7 +3,7 @@
 
 ### [Species Zoomable Treemap](https://apps-fall.ischool.berkeley.edu/~arshiasharma/w209/final/species/)
  
-This visualization presents a unique application of a D3 zoomable treemap, specifically designed to explore the intricate taxonomy of species inhabiting National Parks. By innovating on the standard treemap model, I've integrated enhanced navigation features and a sophisticated color scheme, significantly improving data interaction and visual clarity. This project not only demonstrates a creative use of technology in biological data representation but also reflects my fascination in advancing data visualization techniques for complex hierarchical structures.
+This visualization presents a unique application of a D3 zoomable treemap, specifically designed to explore the intricate taxonomy of species inhabiting National Parks. By expanding on the standard treemap model, I've integrated enhanced navigation features and a sophisticated color scheme, significantly improving data interaction and visual clarity.
 
 
  
