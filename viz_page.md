@@ -28,7 +28,7 @@ This visualization uniquely navigates from a broad overview of biodiversity acro
 
 ---
 
-### [Los Angeles Crime Data 2020-2023](pdf/eda.pdf)
+### [Los Angeles Crime Data 2020-2023](pdf/EDA.pdf)
  
 In my recent data visualization project, I delved into the nuanced relationship between crime rates and population densities, employing advanced normalization techniques to avoid oversimplified generalizations. Utilizing Python's Pandas and Plotly libraries, I created interactive choropleth maps that accurately represent crime data across various ZIP codes. This work highlights my commitment to ethical data analysis and my skill in transforming complex datasets into insightful, visual narratives.
 
