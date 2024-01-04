@@ -23,8 +23,7 @@ This visualization uniquely navigates from a broad overview of biodiversity acro
 
 <img src="images/species_explorer.png?raw=true"/>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Altair](https://img.shields.io/badge/Made%20with-Altair-green.svg)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![D3](https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
 
 ---
