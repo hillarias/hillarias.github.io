@@ -1,4 +1,4 @@
-## Vizualization Projects
+## Visualization Projects
 ---
 
 ### [Species Zoomable Treemap](https://apps-fall.ischool.berkeley.edu/~arshiasharma/w209/final/species/)
